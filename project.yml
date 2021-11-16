@@ -1,0 +1,6 @@
+name: XcodeGenPackages
+packages:
+  TestPackage:
+    path: TestPackage
+  TestPackageInFolder:
+    path: PackagesFolder/TestPackageInFolder
